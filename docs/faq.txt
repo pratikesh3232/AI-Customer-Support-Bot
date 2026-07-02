@@ -1,0 +1,47 @@
+FREQUENTLY ASKED QUESTIONS — TechNova Store
+===========================================
+
+Q: What payment methods do you accept?
+A: We accept Visa, Mastercard, American Express, UPI, Net Banking, and PayPal. All transactions are secured with 256-bit SSL encryption.
+
+Q: How long does standard shipping take?
+A: Standard shipping takes 5–7 business days within India. Express shipping (1–2 business days) is available for an additional charge of ₹99.
+
+Q: Do you offer free shipping?
+A: Yes. Orders above ₹999 qualify for free standard shipping automatically applied at checkout.
+
+Q: Can I track my order?
+A: Yes. Once your order is shipped, you will receive a tracking link via email and SMS. You can also track your order by logging into your account and visiting the "My Orders" section.
+
+Q: How do I cancel my order?
+A: Orders can be cancelled within 12 hours of placing them. After 12 hours, cancellation is not guaranteed as the order may already be dispatched. To cancel, go to "My Orders" → select order → click "Cancel Order".
+
+Q: What happens if I receive a damaged product?
+A: If your product arrives damaged, please take photos and contact support within 48 hours of delivery at support@technova.in. We will arrange a free replacement or full refund.
+
+Q: Do you have a physical store?
+A: Currently we are an online-only store. We do not have physical retail locations.
+
+Q: Is my personal data safe?
+A: Yes. We follow GDPR and Indian IT Act compliance standards. We never sell your personal data to third parties. See our full Privacy Policy on our website.
+
+Q: How do I change my delivery address?
+A: You can change your delivery address before the order is shipped. Go to "My Orders" → select the order → click "Edit Address". Once dispatched, address changes are not possible.
+
+Q: Do you offer EMI options?
+A: Yes. EMI is available on orders above ₹3,000 through Visa, Mastercard, and select bank credit cards. EMI options appear at checkout.
+
+Q: What is your customer support timing?
+A: Our support team is available Monday to Saturday, 9 AM to 6 PM IST. You can reach us at support@technova.in or call 1800-123-4567 (toll free).
+
+Q: Can I buy a product as a gift?
+A: Yes. We offer gift wrapping for ₹49 per item. You can also add a personalised message at checkout. The invoice will not be included inside the package for gift orders.
+
+Q: Do you ship internationally?
+A: Currently we ship only within India. International shipping is planned for Q3 2025.
+
+Q: How do I apply a discount coupon?
+A: Enter your coupon code in the "Apply Coupon" field on the cart page before proceeding to checkout. Only one coupon can be applied per order.
+
+Q: What if a product goes out of stock after I place an order?
+A: If a product becomes unavailable after your order, we will notify you within 24 hours and issue a full refund within 5–7 business days.
