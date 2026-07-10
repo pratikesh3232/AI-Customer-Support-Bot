@@ -127,9 +127,3 @@ python-dotenv
 **Pratikesh Howale**
 - LinkedIn: [linkedin.com/in/pratikesh-howale-32246418a](https://linkedin.com/in/pratikesh-howale-32246418a)
 - GitHub: [github.com/pratikesh3232-github](https://github.com/pratikesh3232-github)
-
----
-
-## License
-
-MIT License — free to use and modify.
