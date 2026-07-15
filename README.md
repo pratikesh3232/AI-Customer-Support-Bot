@@ -6,6 +6,9 @@ An AI-powered customer support chatbot built with LangChain and RAG. It answers 
 
 ## Demo
 
+<img width="870" height="842" alt="image" src="https://github.com/user-attachments/assets/18a5bc92-abc0-431a-ab20-8ccb403ed79b" />
+
+
 > User: "What is your return policy?"
 > Bot: "You can return items within 30 days of delivery. The item must be unused and in original packaging... [return_policy.txt]"
 
